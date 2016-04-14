@@ -1,0 +1,21 @@
+body
+h1, p{
+	color: white;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-align: center;
+}
+ul{
+	color: white;
+	font-family: sans-serif;
+}
+li{
+	color: white;
+	font-family: sans-serif;
+}
+img
+#slogan{
+	font-style: italic;
+	font-weight: bold;
+	font-family: sans-serif;
+}
