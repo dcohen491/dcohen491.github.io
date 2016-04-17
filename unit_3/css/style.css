@@ -1,18 +1,15 @@
 body{
-	color: white;
 	font-weight: bold;
 	font-family: sans-serif;
 	text-align: center;
+	color: black;
+	background: url('../images/nature.jpg');
+	background-size: cover;
 }
-ul{
-	color: white;
-	font-family: sans-serif;
+a{
+	color: purple;
 }
-li{
-	color: white;
-	font-family: sans-serif;
-}
-img
+
 #slogan{
 	font-style: italic;
 	font-weight: bold;
