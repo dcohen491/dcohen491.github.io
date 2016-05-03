@@ -6,6 +6,11 @@
 	color: white;
 	background: url('../images/yellowleaf.jpg');
 	background-size: cover;
+	h1{
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+}
 }
 h1{
 	color: black;
