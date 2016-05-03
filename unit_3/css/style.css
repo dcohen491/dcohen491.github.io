@@ -1,3 +1,13 @@
+body { 
+  font: .875em/1.618 Helvetica, Sans-serif;
+} 
+#navigation {
+	color: white;
+	font-weight: normal;
+	font-family: sans-serif;
+	text-align: center;
+	display: block;
+}	
 body{
 	font-weight: bold;
 	font-family: sans-serif;
@@ -7,7 +17,7 @@ body{
 	background-size: cover;
 }
 a{
-	color: purple;
+	color: orange;
 }
 
 #slogan{
