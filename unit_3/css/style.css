@@ -1,16 +1,7 @@
-body { 
-  font: .875em/1.618 Helvetica, Sans-serif;
-} 
-#navigation {
-	color: white;
-	font-weight: normal;
-	font-family: sans-serif;
-	text-align: center;
-	display: block;
-}	
-body{
+	@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+	body{
 	font-weight: bold;
-	font-family: sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	color: black;
 	background: url('../images/nature.jpg');
