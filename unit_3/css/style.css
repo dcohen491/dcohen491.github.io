@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Carter+One);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
 body {
 	font-weight: bold;
-	font-family: 'Carter One', cursive;
+	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	color: white;
 	background: url('../images/yellowleaf.jpg');
