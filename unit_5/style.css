@@ -22,27 +22,63 @@ h4{
 	font-weight: bold;
 	font-size: 20px;
 }
-#slogan{
-	font-style: italic;
-	font-weight: bold;
-	font-family: sans-serif;
-	margin-top: 70px;
-	margin-bottom: 12px;
-}
 nav ul li{
 	display: inline-block;
 	text-align: right;
 	border-bottom: 4px solid black;
+	margin-left: 0px;
+
 }
-a{
-	color: black;
-}
+
 #socialmedia{
 	display: inline-block;
 	color: black;
 }
 
-#nav1 {
-	background-color: red;
-	float: ;
+.nav1 {
+	float: right;
+	background-color: black;
+	width:100%;
+
+
+}
+
+.nav2 {
+	float: right;
+	background-color: black;
+	width:100%;
+
+}
+a {
+	color: white;
+}
+
+li {
+	padding-right:10px;
+}
+
+.slogan{
+	
+}
+
+.description {
+
+}
+
+.about {
+
+}
+
+article {
+	background-color: #E89C6C;
+
+}
+header {
+	background-color: #FFED74;
+}
+footer{
+	background-color: #FF957E;
+}
+div{
+	background-color: #FFE2B8;
 }
