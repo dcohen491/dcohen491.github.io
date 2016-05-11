@@ -3,14 +3,14 @@ body {
 	font-weight: normal;
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
-	color: #33FFAF;
-	background-color: white;
+	color: white;
+	background: url('../images/citynight.jpg');
 	background-size: cover;
 }
 h1{
 	text-align: center;
 	font-family:, sans-serif;
-	color: #33FFAF;
+	color: white;
 	font-size: 50px;
 }
 h4{
@@ -26,23 +26,14 @@ h4{
 	font-style: italic;
 	font-weight: bold;
 	font-family: sans-serif;
-	margin-top: 70px;
-	margin-bottom: 12px;
 }
 nav ul li{
 	display: inline-block;
-	text-align: right;
-	border-bottom: 4px solid black;
 }
 a{
-	color: black;
+	color: yellow;
 }
-#socialmedia{
+footer {
 	display: inline-block;
-	color: black;
-}
-
-#nav1 {
-	background-color: red;
-	float: ;
+	color: red;
 }
