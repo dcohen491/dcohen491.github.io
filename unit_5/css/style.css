@@ -7,35 +7,31 @@ body {
 	background-color: white;
 	background-size: cover;
 }
-#header{
-	font-size: 18px;
-	font-family: 'Open Sans', sans-serif
-	text-align: center;
-	
-}
 h1{
 	text-align: center;
 	font-family:, sans-serif;
-	color: black;
+	color: #33FFAF;
 	font-size: 50px;
-	border-bottom: black;
 }
 h4{
 	margin-top: 70px;
 	margin-bottom: 12px;
 }
+#contact{
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+}
 nav ul li{
 	display: inline-block;
-	float: none;
-	text-align: center;
+	float: right;
+	border-bottom: 4px solid black;
 	margin-left: 0px;
 }
 nav a {
-	float: none;
+	float: right;
 	color: black;
 	text-decoration: none;
-	padding: 20px;
-	text-align: center;
 }
 a {
 	color: white;
@@ -45,27 +41,14 @@ li {
 	padding-right:10px;
 }
 
-#slogan{
+.slogan{
+	
 }
-#description {
+
+.description {
+
 }
-#about {
-}
-header{
-	background-color: #FFED74;
-}
-nav{
-	background-color: #E8C66A;
-}
-aside{
-	background-color: #FFC675;
-}
-article{
-	background-color: #E89C6C;
-}
-div{
-	background-color: #FFE2B8;
-}
-section{
-	background-color: #FFE2B8;
-}
+
+.about {
+
+
