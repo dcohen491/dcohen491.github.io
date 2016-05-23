@@ -6,10 +6,11 @@ body {
 	color: black;
 	background-color: white;
 	background-size: cover;
+	font-size: 16px;
 }
 #header{
 	font-size: 18px;
-	font-family: 'Open Sans', sans-serif
+	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	
 }
@@ -20,7 +21,7 @@ h1{
 	font-size: 50px;
 	border-bottom: black;
 }
-h4{
+h2{
 	margin-top: 70px;
 	margin-bottom: 12px;
 }
@@ -29,6 +30,7 @@ nav ul li{
 	float: none;
 	text-align: center;
 	margin-left: 0px;
+
 }
 nav a {
 	float: none;
@@ -78,7 +80,7 @@ section{
 #left {
     background-color: #E582A2;
     border: 1px black solid;
-    padding: 20px;
+    padding: 1.5%;
     float: left;
     width: 30%;
 }
@@ -86,9 +88,9 @@ section{
 #right {
     background-color: #E55B88;
     border: 1px black solid;
-    padding: 20px;
+    padding:1.5%;
     float: right;   
-    width: 62%;
+    width: 60%;
 }
 .clearfix:after {
     visibility: hidden;
@@ -98,4 +100,32 @@ section{
     clear: both;
     height: 0;
 }
+@media only screen and (max-width: 498px){
+	body{
+		background-color: black;
+	}
+}
+
+@media only screen and (max-width: 320px){
+	#left {
+		width: 100%;
+		padding: 0px;
+
+	}
+
+	#right {
+		width: 100%;
+		padding: 0px;
+		margin-top: 1em;
+	}
+}
+@media only screen and (max-width: 504px){
+	.nav1{
+		width: 100%
+		font-size: 12px;
+		margin: 1em;
+	}
+}
+
+
 
