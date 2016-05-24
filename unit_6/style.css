@@ -4,9 +4,10 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	color: black;
-	background-color: white;
+	background-image: url(images/mykv2.jpg);
 	background-size: cover;
 	font-size: 16px;
+	background-image: 
 }
 #header{
 	font-size: 18px;
@@ -77,7 +78,7 @@ section{
     padding: 20px;
 }
 
-#left {
+#right {
     background-color: #E582A2;
     border: 1px black solid;
     padding: 1.5%;
@@ -85,7 +86,7 @@ section{
     width: 30%;
 }
 
-#right {
+#left {
     background-color: #E55B88;
     border: 1px black solid;
     padding:1.5%;
@@ -125,7 +126,7 @@ section{
 		font-size: 12px;
 		margin: 1em;
 	}
-}
+
 
 
 
